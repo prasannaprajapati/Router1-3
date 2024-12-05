@@ -97,6 +97,20 @@ cd sim
 make clean
 make regress # for running all the test cases
 ```
+## Output Analysis
+* Run_test1 -> small_test
+![UVM Architecture](run_test1_1.png)
+![UVM Architecture](run_test1_2.png)
+
+* Run_test2-> medium_test
+![UVM Architecture](run_test2_1.png)
+![UVM Architecture](run_test2_2.png)
+
+* Run_test4-> large_less_test
+![UVM Architecture](run_test4_1.png)
+![UVM Architecture](run_test4_2.png)
+![UVM Architecture](run_test4_3.png)
+![UVM Architecture](run_test4_3.png)
 
 ### Coverage Reports
 Coverage reports are available in the `report/` directory:
