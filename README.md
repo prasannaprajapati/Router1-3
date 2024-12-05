@@ -1,4 +1,4 @@
-# Router1-3
+# Router 1*3 Design and Verification using UVM
 
 * This repository contains the RTL design and UVM verification environment for a 1x3 Router project. The router is designed to route packets from a single input port to three output ports based on the header information.
 
